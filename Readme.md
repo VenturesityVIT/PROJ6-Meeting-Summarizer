@@ -10,5 +10,5 @@ Meeting Summarizer
 2) It should include all the important points and should reject random gibberish
 3) 2 Approaches possible : Feed a pre-recorded video, and generate the summary (Easy)
                            Summarize in real time (Very Difficult)
-4) If using first approach, web app can also work, so webapp should have a functionality to upload video
+4) If using first approach, make a web application to deploy this summarizer, so webapp should have a functionality to upload video, for second approach, try making an app
 5) Save the summaries of 100 meetings in DB
